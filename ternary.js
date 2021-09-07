@@ -1,0 +1,1 @@
+console.log(5>6? "a bada hai":"b bada hai")
